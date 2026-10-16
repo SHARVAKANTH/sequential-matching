@@ -304,10 +304,10 @@ docker run --rm sequential-matching
 
 | Item | Value |
 |---|---|
-| Commit SHA | `<to be filled at freeze>` |
+| Commit SHA (code, results and docs frozen) | `9e8c01566351db8a37c81b4ed65770d69e1efeb9` |
 | Python version | 3.11 |
 | Dependency lock file | `requirements.lock.txt` |
-| Date frozen | `<to be filled>` |
+| Date frozen | 2026-10-16 |
 
 **Known reproducibility caveats**
 
